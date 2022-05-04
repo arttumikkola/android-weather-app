@@ -1,9 +1,9 @@
 # Weather App
-Mobile application that displays the weather using data from openweathermap.org API. 
+Mobile application that displays the weather using data from [Openweathermap API](https://openweathermap.org/) API. 
 The app displays current weather and forecast from users location or a city of users choice
 
-# Target
+## Target
 Android/Jetpack Compose
 
-# Google Play link
+## Google Play link
 ...
