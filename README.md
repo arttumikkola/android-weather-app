@@ -5,5 +5,5 @@ The app displays current weather and forecast from users location or a city of u
 ## Target
 Android/Jetpack Compose
 
-## Google Play link
+## Screencast link
 ...
