@@ -4,6 +4,3 @@ The app displays current weather from a city of users choice
 
 ## Target
 Android/Jetpack Compose
-
-## Screencast link
-https://youtu.be/ZQwlGo-0yYw
